@@ -1,3 +1,4 @@
+const numero = Number(prompt("Ingrese un número"));
 // 1- Crear una función que reciba un número por parámetro e indique en consola si el número es par o impar.
 function esParOImpar(numero) {
     if (numero % 2 === 0) {
